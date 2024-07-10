@@ -3,7 +3,7 @@
 
 # Password Manager
 
-![Password Manager](path/to/your/screenshot.png)
+![Password Manager](/image.png)
 
 ## Introduction
 
@@ -32,10 +32,10 @@ Follow these steps to install and set up the Password Manager locally on your ma
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/AntipasG/Personal_Portfolio_Website.git
 
 # Navigate into the directory
-cd password-manager
+cd personal_portfolio_website
 
 # Install dependencies
 pip install -r requirements.txt
@@ -104,6 +104,6 @@ In future iterations, we plan to:
 
 ### Visuals
 
-![Password Manager Screenshot](/image.png)
+![Password Manager Screenshot](/image2.png)
 
 ---
