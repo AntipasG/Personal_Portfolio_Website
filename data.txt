@@ -1,7 +1,1 @@
-[
-    {
-        "website": "Good",
-        "email": "antipasgetu@gmail.com",
-        "password": "Antuoasd"
-    }
-]
+[]
